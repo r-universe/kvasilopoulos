@@ -1,0 +1,26 @@
+[
+  {
+    "package": "exuber",
+    "oncran": true
+  },
+  {
+    "package": "ihpdr",
+    "oncran": true
+  },
+  {
+    "package": "ivx",
+    "oncran": true
+  },
+  {
+    "package": "onsr",
+    "oncran": true
+  },
+  {
+    "package": "transx",
+    "oncran": true
+  },
+  {
+    "package": "uklr",
+    "oncran": true
+  }
+]
