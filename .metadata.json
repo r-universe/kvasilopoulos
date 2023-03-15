@@ -1,6 +1,6 @@
 [
   {
-    "package": "exuber",
+    "package": "transx",
     "oncran": true
   },
   {
@@ -8,19 +8,19 @@
     "oncran": true
   },
   {
-    "package": "ivx",
-    "oncran": true
-  },
-  {
     "package": "onsr",
     "oncran": true
   },
   {
-    "package": "transx",
+    "package": "ivx",
     "oncran": true
   },
   {
     "package": "uklr",
+    "oncran": true
+  },
+  {
+    "package": "exuber",
     "oncran": true
   }
 ]

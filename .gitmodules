@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "exuber"]
-	path = exuber
-	url = https://github.com/kvasilopoulos/exuber
+[submodule "transx"]
+	path = transx
+	url = https://github.com/kvasilopoulos/transx
 	shallow = true
 	registered = true
 [submodule "ihpdr"]
@@ -13,23 +13,23 @@
 	url = https://github.com/kvasilopoulos/ihpdr
 	shallow = true
 	registered = true
-[submodule "ivx"]
-	path = ivx
-	url = https://github.com/kvasilopoulos/ivx
-	shallow = true
-	registered = true
 [submodule "onsr"]
 	path = onsr
 	url = https://github.com/kvasilopoulos/onsr
 	shallow = true
 	registered = true
-[submodule "transx"]
-	path = transx
-	url = https://github.com/kvasilopoulos/transx
+[submodule "ivx"]
+	path = ivx
+	url = https://github.com/kvasilopoulos/ivx
 	shallow = true
 	registered = true
 [submodule "uklr"]
 	path = uklr
 	url = https://github.com/kvasilopoulos/uklr
+	shallow = true
+	registered = true
+[submodule "exuber"]
+	path = exuber
+	url = https://github.com/kvasilopoulos/exuber
 	shallow = true
 	registered = true
