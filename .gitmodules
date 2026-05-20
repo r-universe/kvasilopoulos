@@ -17,6 +17,3 @@
 [submodule "transx"]
 	path = transx
 	url = https://github.com/kvasilopoulos/transx
-[submodule "uklr"]
-	path = uklr
-	url = https://github.com/kvasilopoulos/uklr
